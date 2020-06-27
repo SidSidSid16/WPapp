@@ -18,6 +18,7 @@ This is my first Xamarin.Forms project and my second C# project. Code quality ma
 
 		![Example Post](https://i.imgur.com/mR4DCcfm.png)
 	* Features a platform custom share button	
+	
 	![Share post on Android](https://i.imgur.com/UlspfDGm.png)
 	![Share post on iOS](https://i.imgur.com/uCqjGk9m.png)
 
@@ -27,6 +28,7 @@ This is my first Xamarin.Forms project and my second C# project. Code quality ma
 	
 * **Side Menu**	
 	* Pressing the Menu button at the top left side of the screen will reveal a sidebar which lists the categories of the WordPress website. When a category from the list is pressed, a new page will open showing all the posts in the selected category	
+	
 		![Sidebar](https://i.imgur.com/tDxsz7Km.png)
 
 # Getting Started
