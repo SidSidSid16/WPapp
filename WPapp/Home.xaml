@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WPapp.Views.Home"
+             x:Name="HomeHeader">
+    <ContentPage.ToolbarItems> 
+        <ToolbarItem Text="Refresh"
+                     x:Name="refreshButton"
+                     Clicked="refreshButton_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10"
+                         HorizontalOptions="Center"
+
+                         x:Name="HomeContainer"
+                         >
+                <Label Text="Featured Posts"
+                       FontSize="Title"
+                       FontAttributes="Bold"
+                       Margin="0, 20, 10, 0"/>
+                <StackLayout x:Name="FeaturedContainer">
+                </StackLayout>
+                <!--<CarouselView x:Name="FeaturedCarousel">
+                    --><!--<CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout x:Name="FeaturedContainer"/>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>--><!--
+                </CarouselView>
+                CompressedLayout.IsHeadless="true"-->
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
