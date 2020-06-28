@@ -57,7 +57,3 @@ This is my first Xamarin.Forms project and my second C# project. Code quality ma
 # Features to add:
 * Links in posts will open an in-app embedded browser
 * CarouselView (Sliding gallery design for the "featured posts")
-
-# Bugs to fix:
-* Weird grid heights: [refer to this StackOverflow posts that I had posted.](https://stackoverflow.com/questions/62608781/xamarin-forms-grid-row-height-much-bigger-than-content)
-* Dark mode not working on Android
