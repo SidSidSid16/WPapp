@@ -53,7 +53,3 @@ This is my first Xamarin.Forms project and my second C# project. Code quality ma
 * [Xamarin.Essentials](https://go.microsoft.com/fwlink/?linkid=868960)
 * [WordPressPCL](https://github.com/wp-net/WordPressPCL)
 * [HtmlAgilityPack](http://html-agility-pack.net/)
-
-# Features to add:
-* Links in posts will open an in-app embedded browser
-* CarouselView (Sliding gallery design for the "featured posts")
