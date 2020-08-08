@@ -1,7 +1,14 @@
 
 <img style="float: left; margin-right: 20px;" src="https://i.imgur.com/mhVSI2Z.png">
 
-## Xamarin.Forms Project to Turn Your WordPress Website Into a Native App
+## Xamarin.Forms Project to Turn Your WordPress Website Into a Native App 
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="V5JGKEU2J98AC" />
+<input type="image" src="https://img.shields.io/badge/Donate-Card / PayPal-blue" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 ### This app is aimed at people with little or no programming knowledge to turn their WordPress website into an Android and iOS app
 
@@ -49,9 +56,3 @@ This is my first Xamarin.Forms project and my second C# project. Code quality ma
 1. Open WPapp.sln in Visual Studio
 2. Open the `Info.plist` file (WPapp.iOS/Info.plist)
 3. Change the `Bundle display name` to the app name of your choice
-
-# Dependencies
-* [Xamarin.Forms](http://xamarin.com/forms)
-* [Xamarin.Essentials](https://go.microsoft.com/fwlink/?linkid=868960)
-* [WordPressPCL](https://github.com/wp-net/WordPressPCL)
-* [HtmlAgilityPack](http://html-agility-pack.net/)
