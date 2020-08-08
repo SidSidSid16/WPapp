@@ -3,12 +3,7 @@
 
 ## Xamarin.Forms Project to Turn Your WordPress Website Into a Native App 
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="V5JGKEU2J98AC" />
-<input type="image" src="https://img.shields.io/badge/Donate-Card%20/%20PayPal-blue" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![Donate](https://img.shields.io/badge/Donate-Card%20/%20PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X3D2CQF7798G8&source=url)
 
 ### This app is aimed at people with little or no programming knowledge to turn their WordPress website into an Android and iOS app
 
